@@ -2,7 +2,6 @@
 
 ### Contacts
 ---
-[__LinkedIn: Margarita Sopot__](https://www.linkedin.com/in/msopot/)
 __GitHub:__ [marepot](https://github.com/marepot)
 __E-mail:__ margo.sopot@mail.ru
 __Telegram:__ @marepot
