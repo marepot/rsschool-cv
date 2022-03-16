@@ -2,10 +2,10 @@
 
 ### Contacts
 ---
-__GitHub:__ [marepot](https://github.com/marepot)
-__E-mail:__ margo.sopot@mail.ru
-__Telegram:__ @marepot
-__Discord:__ @marepot
+__GitHub:__ [marepot](https://github.com/marepot)  
+__E-mail:__ margo.sopot@mail.ru  
+__Telegram:__ @marepot  
+__Discord:__ @marepot  
 
 
 
@@ -17,9 +17,9 @@ I am young specialist who whants to increase knowlege in web development.
 
 ### Skills
 ---
-__Programming languages and Technologies:__ JavaScript, HTML, CSS, NodeJS, PHP
-__Databases:__ SQLite, Microsoft SQL Server
-__OS:__ Windows, Linux (Ubuntu)
+__Programming languages and Technologies:__ JavaScript, HTML, CSS, NodeJS, PHP  
+__Databases:__ SQLite, Microsoft SQL Server  
+__OS:__ Windows, Linux (Ubuntu)  
 
 ### Code Examples
 ---
@@ -44,12 +44,11 @@ __OS:__ Windows, Linux (Ubuntu)
 
 ### Education
 ---
-__2017-2021__ International Sakharov Environmental Institute of Belarusian State University, Minsk, Belarus
-            Faculty of Environmental Monitoring
+__2017-2021__ International Sakharov Environmental Institute of Belarusian State University, Minsk, Belarus, Faculty of Environmental Monitoring  
 
-__Specialty:__ Information Systems and Technologies (in public health)
+__Specialty:__ Information Systems and Technologies (in public health)  
 
-__Qualification:__ Software Engineer
+__Qualification:__ Software Engineer  
 
 
 ### Languages
